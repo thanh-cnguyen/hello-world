@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @thanh-cnguyen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, C++, Python, and software developemnt
+- 🌱 I’m currently learning Java, C++, Verilog, Python, and software and web developemnt
 - 💞️ I’m looking to collaborate on software-related projects
 - 📫 How to reach me thanh.nguyen2@utdallas.edu
 
