@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, C++, Verilog, Python, and software and web developemnt
 - 💞️ I’m looking to collaborate on software-related projects
-- 📫 How to reach me thanh.nguyen2@utdallas.edu
+- 📫 How to reach me nguyetha0725@gmail.com
 
 <!---
 thanh-cnguyen/thanh-cnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
